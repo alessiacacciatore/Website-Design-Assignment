@@ -1,6 +1,6 @@
 html,
 body {
-  background-color: rgb(253, 247, 233);
+  background-color: rgb(230, 221, 202);
   overflow-x: hidden;
 }
 
@@ -43,7 +43,7 @@ body {
 
 /*#region Navbar*/
 .navbar {
-  background: rgb(253, 247, 233);
+  background: rgb(230, 221, 202);
   height: 120px;
 }
 
@@ -95,7 +95,7 @@ body {
 #navbarText {
   position: relative;
   z-index: 1;
-  background-color: rgb(253, 247, 233);
+  background-color: rgb(230, 221, 202);
 }
 /*#endregion Navbar*/
 
@@ -163,7 +163,7 @@ body {
 
 .card {
   border: 0rem;
-  background-color: rgb(253, 247, 233);
+  background-color: rgb(230, 221, 202);
   align-items: center;
 }
 
