@@ -247,6 +247,7 @@ body {
   border-radius: 15px;
   box-shadow: -1vw 1vw 0vw 0vw black;
   margin: auto;
+  margin-right: 10vmin;
 }
 
 /*#endregion Student Page*/
